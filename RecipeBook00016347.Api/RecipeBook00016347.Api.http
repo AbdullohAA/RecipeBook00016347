@@ -1,0 +1,6 @@
+@RecipeBook00016347.Api_HostAddress = http://localhost:5270
+
+GET {{RecipeBook00016347.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
